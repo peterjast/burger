@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-image: url(https://www.textures.com/system/gallery/photos/Fabric/Plain%20Fabric/60769/FabricPlain0020_1_download600.jpg);
+}
+
+h1 {
+    text-align: center;
+    color: #5b27bd;;
+    margin: 20px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.col-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+    background: white;
+    text-transform: capitalize;
+    font-size: x-large;
+    padding: 10px;
+}
+
+.h2, h2 {
+    font-size: 2rem;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+    font-size: xx-large;
+    margin-right: 10px;
+    background: #5b27bd;
+    color: whitesmoke;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+button, input {
+    overflow: visible;
+    height: 58px;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    height: 49px;
+    margin-top: 4px;
+    margin-left: 10px;
+    font-size: x-large;
+}
+
+.btn-primary {
+    color: #5b27bd;
+    background-color: gold;
+    border-color: #5b27bd;
+}
+
+.btn-primary:hover {
+    color: gold;
+    background-color:#5b27bd;
+    border-color: gold;    
+}
