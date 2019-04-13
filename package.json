@@ -1,7 +1,7 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "",
+  "description": "An Eat-Da-Burger application using Javascript, JQuery, Express, Express-Handlebars, MySQL and Node.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,6 +21,8 @@
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
-    "mysql": "^2.16.0"
-  }
+    "mysql": "^2.16.0",
+    "sequelize": "^5.3.5"
+  },
+  "devDependencies": {}
 }
