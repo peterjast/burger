@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/peterjast/burger.git"
   },
-  "keywords": [],
+  "keywords": [
+    "burger",
+    "heroku"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -24,5 +27,7 @@
     "mysql": "^2.16.0",
     "sequelize": "^5.3.5"
   },
-  "devDependencies": {}
+  "engines": {
+    "node": "10.13.0"
+  }
 }
