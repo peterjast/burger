@@ -15,13 +15,13 @@ router.get("/", function(req, res) {
 });
 
 router.post("/api/burgers", function(req, res) {
-  console.log(res.body)
+  console.log(res.body);
   burgers.create([
     "name", "eaten"
   ], [
     req.body.name, req.body.eaten
   ], function(result) {
-    console.log(result)
+    console.log(result);
     res.json({ id: result.insertId });
   });
 });
