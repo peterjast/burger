@@ -11,10 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/peterjast/burger.git"
   },
-  "keywords": [
-    "burger",
-    "heroku"
-  ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
