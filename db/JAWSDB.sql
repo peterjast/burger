@@ -1,6 +1,6 @@
 USE ptkk3tpv83jayqil;
 DROP TABLE IF EXISTS burgers;
-CREATE TABLE burgers(
+CREATE TABLE burgers (
 	id INT NOT NULL AUTO_INCREMENT,
 	name VARCHAR(255) NOT NULL,
 	eaten BOOLEAN NOT NULL,
