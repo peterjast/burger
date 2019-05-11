@@ -1,4 +1,4 @@
-USE sm7l6rrr84zxky7d;
+USE ptkk3tpv83jayqil;
 DROP TABLE IF EXISTS burgers;
 CREATE TABLE burgers(
 	id INT NOT NULL AUTO_INCREMENT,
