@@ -18,4 +18,4 @@ An Eat-Da-Burger application using Javascript, JQuery, Express, Express-Handleba
     * Burger is displayed in the "To Be Eaten" list
     * When devour is clicked, the burger moves to the "Devoured" list
 
-## Link to deployed app: [https://infinite-bastion-58118.herokuapp.com/](https://infinite-bastion-58118.herokuapp.com/)
+## Link to deployed app: [https://vast-sierra-62928.herokuapp.com/](https://vast-sierra-62928.herokuapp.com/)
